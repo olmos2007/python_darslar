@@ -27,7 +27,8 @@
 
 def Olmosbek():
     print('Salom meninig Ismim Olmos, men sizni royhatdan o`tkazaman')
-    
+
+Olmosbek()    
 
 def Information(self, f_name, s_name, p_number, e_address, married):
     f_name = input('Your name: ')
